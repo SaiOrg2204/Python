@@ -1,2 +1,2 @@
 # Python
-Python scripts from SRK material
+Developing Python scripts for automation.
